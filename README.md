@@ -1,2 +1,13 @@
-# excel-dashboard-portfolio
-Business dashboard projects built using Microsoft Excel for data analysis and visualization.
+📊 Excel Dashboard Portfolio
+
+Projects
+
+📈 Sales Dashboard
+
+👨‍💼 HR Analytics Dashboard
+
+Coming Soon
+
+💰 Financial Dashboard
+
+📦 Inventory Dashboard
